@@ -10,15 +10,15 @@ const Hero = () => {
 
       <div className="col-span-2 px-5 my-auto">
         <h1 className="text-white text-4xl sm:text-5xl lg:text-8xl font-extrabold">
-          <span className="primary-color">I'm a</span>
+          <span className="primary-color">I'm </span>
           <br />
           <TypeAnimation
             sequence={[
-              "Full Stack Dev",
+              "the man",
               1000,
-              "Web Designer",
+              "the best",
               1000,
-              "UI/UX Dev",
+              "better than humans",
               1000,
             ]}
             wrapper="span"
@@ -27,8 +27,8 @@ const Hero = () => {
           />
         </h1>
         <p className="text-white sm:text-xl my-6 lg:text-xl">
-          My name is Omar Shawky I am a Full Stack Developer and I am interested
-          in everyting about technology. Call me at any time for work
+          My name is Mohaned rashed I am a big watermelon and I am interested in
+          everyting about memes. Call me at any time for work
         </p>
 
         <div className="my-8">
